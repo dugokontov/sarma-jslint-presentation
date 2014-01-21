@@ -1,3 +1,4 @@
+/*global console*/
 var defineLater = function() {
   a = 2;
   var a;

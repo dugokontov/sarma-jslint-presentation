@@ -1,3 +1,4 @@
+/*global console*/
 (function() {
   loadResolve = {
     '/assets/javascript': ['main.js', 'util.js'],
