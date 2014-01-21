@@ -1,3 +1,4 @@
+/*global console*/
 var newLine = function()
 {
   return
